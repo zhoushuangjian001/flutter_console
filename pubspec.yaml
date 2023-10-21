@@ -1,6 +1,7 @@
-name: fd_console
+name: console
 description: A new Flutter project.
 homepage: https://github.com/zhoushuangjian001/flutter_console
+repository: https://github.com/zhoushuangjian001/flutter_console.git
 # The following line prevents the package from being accidentally published to
 # pub.dev using `flutter pub publish`. This is preferred for private packages.
 
