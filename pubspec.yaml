@@ -2,6 +2,7 @@ name: fd_console
 description: New version of Flutter's Debug Console, which provides testers with a view of the program's output logs outside of the IDE.
 version: 0.0.1
 homepage: https://github.com/zhoushuangjian001/flutter_console
+repository: https://github.com/zhoushuangjian001/flutter_console.git
 
 environment:
   sdk: '>=2.17.0 <4.0.0'
